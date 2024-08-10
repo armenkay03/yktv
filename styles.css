@@ -11,7 +11,7 @@ h1 {
     color: #ffffff;
     padding: 20px;
     font-size: 2.5em;
-    border: 5px solid #ff0000; /* Red border for a primitive look */
+    border: 5px solid #27ed70; /* Red border for a primitive look */
     text-transform: lowercase;
 }
 nav {
